@@ -15,3 +15,7 @@ Developer dhia = new Developer()
     .setCompany("Student")
     .setRole("software engineer");
 ```
+
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
