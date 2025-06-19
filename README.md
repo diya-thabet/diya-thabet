@@ -8,13 +8,15 @@
 - 📈 I enjoy solving coding challenges on [LeetCode](https://leetcode.com/u/mohamaddhia).
 
 - 📫 How to reach me **mohamaddhia@gmail.com**
-
+<!-- 
 ```kotlin
 Developer dhia = new Developer()
     .setName("Mohamed Dhia Thabet")
     .setCompany("Student")
     .setRole("software engineer");
 ```
+-->
+
 
 
 ### ✍️Random Dev Quote
