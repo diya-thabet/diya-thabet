@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhia</h1>
 <h3 align="center">A passionate Software Engineering Student from Tunisia</h3>
 
-- 🌱 I’m currently learning **more about DevOps and cloud technologies.**
+- 🌱 I’m currently learning **more about AI and Spring Backend technologie.**
 
 - 💬 Ask me about **React, Java, or any tech-related stuff.**
 
