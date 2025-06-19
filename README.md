@@ -1,9 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhia</h1>
+<h3 align="center">A passionate Software Engineering Student from Tunisia</h3>
+
+- 🌱 I’m currently learning **more about DevOps and cloud technologies.**
+
+- 💬 Ask me about **React, Java, or any tech-related stuff.**
+
+- 📈 I enjoy solving coding challenges on [LeetCode](https://leetcode.com/u/mohamaddhia).
+
+- 📫 How to reach me **mohamaddhia@gmail.com**
 
 ```kotlin
 Developer dhia = new Developer()
     .setName("Mohamed Dhia Thabet")
     .setCompany("Student")
-    .setRole("software engineer")
-    .setEmail("mohamaddhia@gmail.com");
+    .setRole("software engineer");
 ```
