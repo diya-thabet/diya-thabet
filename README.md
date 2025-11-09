@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **more about how to stay relevant before AI takes my job :)**
 
-- 💬 Ask me about **React, Java, or any tech-related stuff.**
+- 💬 Ask me about **AI, React, Java, or any tech-related stuff.**
 
 - 📈 I enjoy solving coding challenges on [LeetCode](https://leetcode.com/u/mohamaddhia).
 
